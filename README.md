@@ -92,3 +92,6 @@ ecommerce_project/
 - Multi-language (i18n) support in `/lang/`
 - Email notifications for orders, password reset, promotions
 - Recommendations and personalized offers
+<img width="431" height="651" alt="Screenshot 2025-06-21 043936" src="https://github.com/user-attachments/assets/a966a488-9137-4821-90ff-1de064c1e86e" />
+
+
