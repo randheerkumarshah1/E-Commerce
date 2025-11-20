@@ -223,7 +223,9 @@ RKS Store replicates essential features found in modern e-commerce platforms lik
   - Coupons and discount management
 
 
-12. Rks Store - Online E-Commerce Website Demo Image Reffrencess How To Work Website :-
-    <img width="1920" height="1080" alt="Screenshot 2025-09-30 080344" src="https://github.com/user-attachments/assets/0a41f68c-4389-4693-897f-74215721af4f" />
+12. ## Rks Store - Online E-Commerce Website Demo Image Reffrencess How To Work Website :-
+    <img width="1919" height="1078" alt="Screenshot 2025-09-29 230255" src="https://github.com/user-attachments/assets/149a05ea-a28e-4328-9d62-4d069aa63f3f" />
+                                                  1. Screenshoot :- Home Page
+
 
 
