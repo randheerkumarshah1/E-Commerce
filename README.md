@@ -104,11 +104,121 @@ RKS Store replicates essential features found in modern e-commerce platforms lik
 ⭐ KEY FEATURES
 1. User Authentication & Account Management
 
-- Secure user registration and login
+  - Secure user registration and login
 
-- Password encryption and validation
+  - Password encryption and validation
 
-- Profile management (name, email, address, phone, etc.)
+  - Profile management (name, email, address, phone, etc.)
 
-- View order history and track orders
+  - View order history and track orders
+
+2. Product Catalog & Browsing
+
+  - Clean and categorized product listing
+
+  - Filter by brand, category, and price
+
+  - Product details with images, description, and reviews
+
+  - Search functionality for quick product discovery
+
+3. Shopping Cart System
+
+  - Add/remove products from the cart
+
+  - Update item quantity
+
+  - Automatic cart total calculation
+
+  - Proceed to checkout with selected items
+
+4. Wishlist & Save-for-Later
+
+  - Save products to wishlist
+
+  - Move items between wishlist, cart, and saved list
+
+5. Checkout & Order Processing
+
+  - Secure order placement
+
+  - Delivery address submission
+
+  - Payment gateway ready (Stripe/PayPal/Razorpay integration possible)
+
+  - Automatic order ID and tracking number generation
+
+6. Order Tracking
+
+  - Customers can track order status using tracking ID
+
+  - Admin updates order status from panel
+
+  - Real-time visibility for customers
+
+7. Admin Panel (Back-Office System)
+
+  - Admin login with access control
+
+  - Dashboard with analytics:
+
+  - Total sales
+
+  - Total orders
+
+  - Top-selling products
+
+  - Low-stock alerts
+
+- Complete CRUD operations for:
+
+  - Products
+
+  - Categories
+
+  - Brands
+
+  - Users
+
+  - Orders
+  
+  - Coupons
+
+  - Banners
+
+8. Database Management (MySQL)
+
+  - Centralized database
+
+  - Proper relational design with keys
+
+  - Tables include: users, products, orders, categories, brands, reviews, wishlist, cart, etc.
+
+9. Responsive UI
+
+  - Fully responsive layout using HTML, CSS, and Bootstrap
+
+  - Works smoothly on mobile, tablet, and desktop
+
+10. Security Features
+
+  - SQL injection protection
+
+  - Encrypted passwords
+
+  - Session-based authentication
+
+  - Admin-only access to backend
+
+11. Additional Modules
+
+  - Product review system
+
+  - Email notification support (optional)
+
+  - Multi-vendor support ready
+
+  - Dynamic banners and offers
+
+  - Coupons and discount management
 
