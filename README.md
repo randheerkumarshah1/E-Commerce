@@ -92,6 +92,134 @@ ecommerce_project/
 - Multi-language (i18n) support in `/lang/`
 - Email notifications for orders, password reset, promotions
 - Recommendations and personalized offers
-<img width="431" height="651" alt="Screenshot 2025-06-21 043936" src="https://github.com/user-attachments/assets/a966a488-9137-4821-90ff-1de064c1e86e" />
+
+✅ DESCRIPTION
+
+RKS Store – Online Shopping Management System is a web-based e-commerce application designed to provide a smooth, convenient, and secure online shopping experience. The system allows customers to browse products, add items to the cart, place orders, make secure payments, and track their purchases. It also includes a powerful Admin Panel that enables administrators to manage products, categories, brands, users, and orders efficiently.
+
+The project is developed using HTML, CSS, JavaScript, PHP, and MySQL, following a structured software development methodology. The system focuses on usability, security, performance, and reliability—making it suitable for both small businesses and academic purposes.
+
+RKS Store replicates essential features found in modern e-commerce platforms like Flipkart and Amazon, while keeping the interface simple and user-friendly.
+
+⭐ KEY FEATURES
+1. User Authentication & Account Management
+
+Secure user registration and login
+
+Password encryption and validation
+
+Profile management (name, email, address, phone, etc.)
+
+View order history and track orders
+
+2. Product Catalog & Browsing
+
+Clean and categorized product listing
+
+Filter by brand, category, and price
+
+Product details with images, description, and reviews
+
+Search functionality for quick product discovery
+
+3. Shopping Cart System
+
+Add/remove products from the cart
+
+Update item quantity
+
+Automatic cart total calculation
+
+Proceed to checkout with selected items
+
+4. Wishlist & Save-for-Later
+
+Save products to wishlist
+
+Move items between wishlist, cart, and saved list
+
+5. Checkout & Order Processing
+
+Secure order placement
+
+Delivery address submission
+
+Payment gateway ready (Stripe/PayPal/Razorpay integration possible)
+
+Automatic order ID and tracking number generation
+
+6. Order Tracking
+
+Customers can track order status using tracking ID
+
+Admin updates order status from panel
+
+Real-time visibility for customers
+
+7. Admin Panel (Back-Office System)
+
+Admin login with access control
+
+Dashboard with analytics:
+
+Total sales
+
+Total orders
+
+Top-selling products
+
+Low-stock alerts
+
+Complete CRUD operations for:
+
+Products
+
+Categories
+
+Brands
+
+Users
+
+Orders
+
+Coupons
+
+Banners
+
+8. Database Management (MySQL)
+
+Centralized database
+
+Proper relational design with keys
+
+Tables include: users, products, orders, categories, brands, reviews, wishlist, cart, etc.
+
+9. Responsive UI
+
+Fully responsive layout using HTML, CSS, and Bootstrap
+
+Works smoothly on mobile, tablet, and desktop
+
+10. Security Features
+
+SQL injection protection
+
+Encrypted passwords
+
+Session-based authentication
+
+Admin-only access to backend
+
+11. Additional Modules
+
+Product review system
+
+Email notification support (optional)
+
+Multi-vendor support ready
+
+Dynamic banners and offers
+
+Coupons and discount management
 
 
